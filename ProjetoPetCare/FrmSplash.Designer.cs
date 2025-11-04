@@ -42,7 +42,7 @@
             this.lblnumero.AutoSize = true;
             this.lblnumero.BackColor = System.Drawing.Color.Transparent;
             this.lblnumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblnumero.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblnumero.ForeColor = System.Drawing.Color.Black;
             this.lblnumero.Location = new System.Drawing.Point(383, 475);
             this.lblnumero.Name = "lblnumero";
             this.lblnumero.Size = new System.Drawing.Size(16, 18);
@@ -68,7 +68,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-332, -146);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1419, 807);
+            this.pictureBox1.Size = new System.Drawing.Size(1464, 807);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;

@@ -208,6 +208,7 @@
             this.Controls.Add(this.btnclear);
             this.Controls.Add(this.pictureBox1);
             this.Name = "FrmCadastroAnimal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro Animal";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
