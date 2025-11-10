@@ -43,6 +43,11 @@ namespace APPfuncionario
             this.Hide();
         }
 
-
+        private void btnsair_Click(object sender, EventArgs e)
+        {
+            FrmLogin abrir = new FrmLogin();
+            abrir.Show();
+            this.Hide();
+        }
     }
 }

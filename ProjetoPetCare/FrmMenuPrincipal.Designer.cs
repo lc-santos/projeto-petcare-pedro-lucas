@@ -82,6 +82,7 @@
             this.btnsair.TabIndex = 4;
             this.btnsair.Text = "Sair";
             this.btnsair.UseVisualStyleBackColor = true;
+            this.btnsair.Click += new System.EventHandler(this.btnsair_Click);
             // 
             // FrmMenuPrincipal
             // 
